@@ -19,7 +19,7 @@
 
 ---
 
-## 📖 Descripción
+## Descripción
 
 **Modyn** es una aplicación web desarrollada con **Laravel 13** que permite gestionar la base de datos `Modyn_DB` de forma visual e intuitiva. Permite explorar tablas, insertar, editar y eliminar registros, además de contar con un catálogo de productos con búsqueda en tiempo real.
 
@@ -27,21 +27,21 @@ Este proyecto es la migración del sistema original desarrollado en **PHP puro**
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 | Módulo | Descripción |
 |---|---|
-| 🏠 **Inicio** | Bienvenida con logo y accesos rápidos |
-| 📋 **Tablas** | Explora todas las tablas de `Modyn_DB` |
-| 🔍 **Ver datos** | Visualiza los registros de cualquier tabla |
-| ➕ **Insertar** | Formulario dinámico adaptado al tipo de dato y claves foráneas |
-| ✏️ **Editar** | Edición de productos (nombre, descripción, precio) |
-| 🗑️ **Eliminar** | Eliminación con confirmación |
-| 🛍️ **Catálogo** | Vista en cards con búsqueda por ID, nombre o descripción |
+| **Inicio** | Bienvenida con logo y accesos rápidos |
+| **Tablas** | Explora todas las tablas de `Modyn_DB` |
+| **Ver datos** | Visualiza los registros de cualquier tabla |
+| **Insertar** | Formulario dinámico adaptado al tipo de dato y claves foráneas |
+| **Editar** | Edición de productos (nombre, descripción, precio) |
+| **Eliminar** | Eliminación con confirmación |
+| **Catálogo** | Vista en cards con búsqueda por ID, nombre o descripción |
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Backend:** Laravel 13, PHP 8.3
 - **Base de datos:** MySQL 8.x
@@ -50,7 +50,7 @@ Este proyecto es la migración del sistema original desarrollado en **PHP puro**
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 laravel/
@@ -79,7 +79,7 @@ laravel/
 
 ---
 
-## 🗺️ Rutas
+## Rutas
 
 | Método | Ruta | Descripción |
 |---|---|---|
@@ -156,7 +156,7 @@ Abre **http://localhost:8000** en tu navegador. 🎉
 
 ---
 
-## 🔧 Solución de problemas
+## Solución de problemas
 
 <details>
 <summary><strong>❌ composer install falla por extensión faltante</strong></summary>
@@ -205,7 +205,7 @@ Asegúrate de que la carpeta de PHP (ej. `C:\php`) esté agregada al **PATH** de
 
 ---
 
-## 👥 Equipo
+## Equipo
 
 <table>
   <tr>
