@@ -13,7 +13,7 @@
   <p>
     <a href="https://github.com/1ASI0726-20233-Modyn/Modyn-fashion">📁 Repositorio</a> ·
     <a href="#-instalación">🚀 Instalación</a> ·
-    <a href="#-funcionalidades">✨ Funcionalidades</a>
+    <a href="#funcionalidades">✨ Funcionalidades</a>
   </p>
 </div>
 
