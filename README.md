@@ -30,7 +30,7 @@ routes/web.php            ← Todas las rutas
 composer install
 
 # 2. Copiar .env y configurar contraseña de BD
-cp .env.example .env
+cp .env
 # Edita .env: pon DB_PASSWORD con tu contraseña real
 
 # 3. Generar clave de app
