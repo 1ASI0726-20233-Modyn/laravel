@@ -8,7 +8,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Composer](https://img.shields.io/badge/Composer-2.x-885630?style=for-the-badge&logo=composer&logoColor=white)
 
-  <h3>Panel de administración de base de datos para la plataforma de moda <strong>Modyn</strong></h3>
+  <h3>Plataforma E-commerce <strong>Modyn Fashion </strong></h3>
 
   <p>
     <a href="https://github.com/1ASI0726-20233-Modyn/Modyn-fashion">📁 Repositorio</a> ·
