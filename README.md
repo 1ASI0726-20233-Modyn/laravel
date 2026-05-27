@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/logo.jpeg" alt="Modyn Logo" width="400"/>
+  <img src="public/logo.jpeg" alt="Modyn Logo" width="200"/>
 
   <br/>
 
